@@ -6,8 +6,10 @@ The purpose the analysis is to understand the temperature statistics for June an
 Results:
 
 •	Between the years of 2010 and 2016, the average temperature for June has been 75 degrees with a standard deviation of 3.25.  
+![june_temp_image](https://user-images.githubusercontent.com/96395120/156957599-4b7734c3-5e4c-4f67-ad5a-9e4827b6be4d.png)
  
 •	Between 2010 and 2016, the average temperature for December has been 71 degrees with a standard deviation of 3.75.
+![dec_temp_image](https://user-images.githubusercontent.com/96395120/156957834-aa1e8a8a-fd5a-4ec1-8c1d-7df510e65088.png)
  
 •	Even December temperatures have reached as low as 56 degrees in the past, 50% of the temperatures have been 71 degrees while in June it’s been 75 degrees with the difference in standard deviation of only .5.   
 
